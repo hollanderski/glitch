@@ -22,4 +22,8 @@
 * Geosonics by Soniccouture
 * Python 3.11
 * loopMIDI
-  
+
+#### How to
+* On the Raspberry Pi : sendSensorUDP.py
+* On the computer : UDPAbleton.py
+* Then play Ableton
